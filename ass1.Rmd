@@ -1,0 +1,16 @@
+---
+title: "Reproducibility"
+output: html_notebook
+---
+
+# Introduction
+
+Her er introduksjonen bla bla
+
+# Lit Review
+
+# Discussion
+
+# Conclusion
+
+# References
